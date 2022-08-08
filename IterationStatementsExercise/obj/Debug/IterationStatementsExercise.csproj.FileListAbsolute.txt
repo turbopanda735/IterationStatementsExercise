@@ -1,0 +1,8 @@
+C:\Users\joel k\repos\IterationStatementsExercise\IterationStatementsExercise\bin\Debug\IterationStatementsExercise.exe.config
+C:\Users\joel k\repos\IterationStatementsExercise\IterationStatementsExercise\bin\Debug\IterationStatementsExercise.exe
+C:\Users\joel k\repos\IterationStatementsExercise\IterationStatementsExercise\bin\Debug\IterationStatementsExercise.pdb
+C:\Users\joel k\repos\IterationStatementsExercise\IterationStatementsExercise\obj\Debug\IterationStatementsExercise.csproj.AssemblyReference.cache
+C:\Users\joel k\repos\IterationStatementsExercise\IterationStatementsExercise\obj\Debug\IterationStatementsExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\joel k\repos\IterationStatementsExercise\IterationStatementsExercise\obj\Debug\IterationStatementsExercise.csproj.CoreCompileInputs.cache
+C:\Users\joel k\repos\IterationStatementsExercise\IterationStatementsExercise\obj\Debug\IterationStatementsExercise.exe
+C:\Users\joel k\repos\IterationStatementsExercise\IterationStatementsExercise\obj\Debug\IterationStatementsExercise.pdb
